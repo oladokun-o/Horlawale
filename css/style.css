@@ -963,6 +963,7 @@ ul li {
 	transform: none;
 	-webkit-animation: none;
 	animation: none;
+	object-position: unset;
 }
 
 .orb-photo-frame:after {
@@ -1588,7 +1589,7 @@ label.cbx {
 }
 
 .orb-home-1 .orb-content .rb-object-frame .orb-slide-caption h1 {
-	font-size: 90px;
+	font-size: 88px;
 }
 
 .orb-home-1 .orb-content .rb-object-frame .orb-slide-caption h1 span {
@@ -1629,15 +1630,15 @@ label.cbx {
 .orb-home-1 .orb-content .orb-navigation .orb-line {
 	margin-right: 40px;
 	height: 1px;
-	background-color: #442A24;
+	background-color: #c57642;
 	width: calc(100% - 340px);
 }
 
 .orb-home-1 .orb-content .orb-navigation .orb-button {
 	z-index: 2;
 	border-radius: 50%;
-	border: 1px solid #442A24;
-	color: #442A24;
+	border: 1px solid #c57642;
+	color: #c57642;
 	width: 180px;
 	height: 180px;
 	background-color: #F1EBE5;
@@ -2902,8 +2903,8 @@ label.cbx {
 }
 
 .orb-portfolio-1 .swiper-slide .orb-content .orb-object-frame .orb-obj-1 img {
-	-o-object-position: center;
-	object-position: center;
+	-o-object-position: top;
+	object-position: top;
 }
 
 .orb-portfolio-1 .swiper-slide .orb-content .orb-object-frame .orb-slide-caption {
@@ -4102,7 +4103,7 @@ label.cbx {
 	left: 0;
 	width: 60%;
 	height: 30px;
-	background-color: #C57642;
+	background-color: #c57642b0;
 }
 
 .orb-portfolio-5 .orb-content .orb-obj-1 {
@@ -4337,8 +4338,8 @@ label.cbx {
 }
 
 .orb-big-menu-1 .rb-object-frame .orb-obj-1 img {
-	-o-object-position: center;
-	object-position: center;
+	-o-object-position: left;
+	object-position: left;
 }
 
 .orb-big-menu-1 .rb-object-frame .orb-position-fix {
