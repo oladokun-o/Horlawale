@@ -323,7 +323,7 @@ ul li {
 .orb-menu-frame nav .orb-menu li a {
 	white-space: nowrap;
 	text-decoration: none;
-	color: #442A24;
+	color: #FFF;
 	font-family: "Roboto", sans-serif;
 	font-weight: bold;
 	font-size: 11px;
@@ -616,7 +616,7 @@ ul li {
 	width: 30px;
 	height: 3px;
 	border-radius: 1px;
-	background: #442A24;
+	background: #FFF;
 	-webkit-backface-visibility: hidden;
 	backface-visibility: hidden;
 	-webkit-transition: 0.3s ease-in-out;
@@ -711,6 +711,7 @@ ul li {
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	height: 100%;
+	background-color: black;
 }
 
 .orb-grid .orb-g-10 {
@@ -1398,7 +1399,7 @@ html.is-preload .orb-loader-frame .orb-loader.orb-active .orb-deco-2 .orb-spiner
 	/* Chrome, Firefox, Opera, Safari 10.1+ */
 	font-family: "Libre Baskerville", serif;
 	font-size: 18px;
-	color: #442A24;
+	color: #C57642;
 	opacity: 1;
 }
 
@@ -1406,7 +1407,7 @@ html.is-preload .orb-loader-frame .orb-loader.orb-active .orb-deco-2 .orb-spiner
 	/* Microsoft Edge */
 	font-family: "Libre Baskerville", serif;
 	font-size: 18px;
-	color: #442A24;
+	color: #C57642;
 }
 
 .orb-contact-3 ::placeholder {
@@ -1545,7 +1546,7 @@ label.cbx {
 .orb-home-1 {
 	padding-top: 120px;
 	padding-left: 80px;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-home-1 .orb-photo-frame:after {
@@ -1593,7 +1594,7 @@ label.cbx {
 }
 
 .orb-home-1 .orb-content .rb-object-frame .orb-slide-caption h1 span {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-home-1 .orb-content .rb-object-frame .orb-slide-caption .orb-suptitle {
@@ -1639,14 +1640,14 @@ label.cbx {
 	border-radius: 50%;
 	border: 1px solid #c57642;
 	color: #c57642;
-	width: 180px;
-	height: 180px;
-	background-color: #F1EBE5;
+	width: 110px;
+	height: 110px;
+	background-color: #210c0696;
 	font-family: "Roboto", sans-serif;
 	font-weight: bold;
 	font-size: 11px;
 	letter-spacing: 0.1em;
-	padding: 0 50px;
+	padding: 0 20px;
 	text-transform: uppercase;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -1664,7 +1665,7 @@ label.cbx {
 }
 
 .orb-home-1 .orb-content .orb-navigation .orb-button .orb-arrow {
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .orb-home-1 .orb-content .orb-navigation .orb-button:hover {
@@ -1689,7 +1690,7 @@ label.cbx {
 
 @media (max-width: 992px) {
 	.orb-home-1 .orb-top-bar-frame {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-home-1 .orb-content .rb-object-frame .orb-slide-caption {
@@ -1702,7 +1703,7 @@ label.cbx {
 	}
 
 	.orb-home-1 .orb-content .rb-object-frame .orb-slide-caption h1 span {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-home-1 .orb-content .rb-object-frame .orb-slide-caption .orb-suptitle {
@@ -1757,7 +1758,7 @@ label.cbx {
 	}
 
 	.orb-home-1 .orb-content .rb-object-frame .orb-slide-caption h1 span {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-home-1 .orb-content .rb-object-frame .orb-slide-caption .orb-suptitle {
@@ -2333,7 +2334,7 @@ label.cbx {
 ==================================== */
 
 .orb-home-4 {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 	padding-top: 120px;
 }
 
@@ -2342,7 +2343,7 @@ label.cbx {
 }
 
 .orb-home-4 .orb-top-bar-frame {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-home-4 .orb-top-bar-frame .orb-top-bar:before {
@@ -2861,7 +2862,7 @@ label.cbx {
 ==================================== */
 
 .orb-portfolio-1 {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 	padding-top: 120px;
 	padding-bottom: 80px;
 }
@@ -2871,7 +2872,7 @@ label.cbx {
 }
 
 .orb-portfolio-1 .orb-top-bar-frame {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-portfolio-1 .orb-top-bar-frame .orb-top-bar:before {
@@ -2977,7 +2978,7 @@ label.cbx {
 
 .orb-portfolio-1 .swiper-slide.swiper-slide-active .orb-content .orb-object-frame .orb-slide-caption h2 {
 	padding: 20px;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-portfolio-1 .orb-nav-frame {
@@ -3037,6 +3038,7 @@ label.cbx {
 	-webkit-box-pack: center;
 	-ms-flex-pack: center;
 	justify-content: center;
+	background-color: white;
 }
 
 .orb-portfolio-1 .orb-nav-frame .orb-nav .orb-next:first-child, .orb-portfolio-1 .orb-nav-frame .orb-nav .orb-prev:first-child {
@@ -3056,7 +3058,7 @@ label.cbx {
 }
 
 .orb-portfolio-1 .orb-nav-frame .orb-nav .orb-next:hover, .orb-portfolio-1 .orb-nav-frame .orb-nav .orb-prev:hover {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-portfolio-1 .orb-nav-frame .orb-nav .orb-prev img {
@@ -4078,7 +4080,7 @@ label.cbx {
 	padding-left: 80px;
 	padding-right: 80px;
 	padding-bottom: 80px;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-portfolio-5 .orb-photo-frame:after {
@@ -4086,7 +4088,7 @@ label.cbx {
 }
 
 .orb-portfolio-5 .orb-top-bar-frame {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-portfolio-5 .orb-top-bar-frame .orb-top-bar:before {
@@ -4190,7 +4192,7 @@ label.cbx {
 	font-size: 11px;
 	letter-spacing: 0.1em;
 	padding: 20px;
-	background-color: #F1EBE5;
+	background-color: #FFF;
 	text-transform: uppercase;
 	-webkit-transition: 0.4s ease-in-out;
 	transition: 0.4s ease-in-out;
@@ -4274,7 +4276,7 @@ label.cbx {
 	.orb-portfolio-5 .orb-description {
 		position: relative;
 		padding-top: 20px;
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 		width: 100%;
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: reverse;
@@ -4314,7 +4316,7 @@ label.cbx {
 
 .orb-big-menu-1 {
 	padding-right: 0;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-big-menu-1 .orb-photo-frame:after {
@@ -4464,7 +4466,7 @@ label.cbx {
 ==================================== */
 
 .orb-big-menu-2 {
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-big-menu-2 .orb-photo-frame:after {
@@ -4612,7 +4614,7 @@ label.cbx {
 
 .orb-contact-1 .orb-content .rb-object-frame {
 	position: relative;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 	height: calc(var(--vh, 1vh) * 100);
 	padding-top: 120px;
 }
@@ -4739,12 +4741,12 @@ label.cbx {
 	}
 
 	.orb-contact-1 .orb-top-bar-frame {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-contact-1 .orb-content .rb-object-frame {
 		position: relative;
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 		height: auto;
 		padding: 0;
 	}
@@ -4757,7 +4759,7 @@ label.cbx {
 	}
 
 	.orb-contact-1 .orb-content .rb-object-frame .orb-page-title {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 		font-size: 24px;
 		bottom: 0;
 		left: auto;
@@ -4856,7 +4858,7 @@ label.cbx {
 
 .orb-contact-2 .orb-content .orb-form-frame .orb-form-content {
 	width: 100%;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 	z-index: 2;
 	padding: 30px;
 }
@@ -4875,6 +4877,7 @@ label.cbx {
 	font-size: 14px;
 	font-style: italic;
 	padding-right: 80px;
+	color: #FFF;
 }
 
 .orb-contact-2 .orb-content .orb-form-frame .orb-form-content .orb-form-bottom .orb-submit-btn {
@@ -5250,7 +5253,7 @@ label.cbx {
 @media (max-width: 768px) {
 	.orb-contact-3 {
 		padding: 80px 20px 20px;
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-contact-3 .orb-content .rb-object-frame {
@@ -5987,7 +5990,7 @@ label.cbx {
 
 .orb-blog-4 {
 	padding: 120px 80px 0 0;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-blog-4 .orb-photo-frame:after {
@@ -6127,7 +6130,7 @@ label.cbx {
 	}
 
 	.orb-blog-4 .orb-top-bar-frame {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-blog-4 .orb-content .rb-object-frame {
@@ -6447,7 +6450,7 @@ label.cbx {
 
 .orb-about-2 {
 	padding: 120px 0 0;
-	background-color: #F1EBE5;
+	background-color: #3C3C3C;
 }
 
 .orb-about-2 .orb-photo-frame:after {
@@ -6498,6 +6501,7 @@ label.cbx {
 
 .orb-about-2 .orb-content .orb-about-frame .orb-about-text {
 	padding-top: 80px;
+	color: white;
 }
 
 .orb-about-2 .orb-content .orb-about-frame .orb-about-text .orb-deco {
@@ -6582,7 +6586,7 @@ label.cbx {
 	}
 
 	.orb-about-2 .orb-top-bar-frame {
-		background-color: #F1EBE5;
+		background-color: #3C3C3C;
 	}
 
 	.orb-about-2 .orb-content .rb-object-frame {
@@ -6991,4 +6995,8 @@ label.cbx {
     background: #C57642;
 	color: #FFF;
 	padding: 15px;    
+}
+
+.home .orb-photo-frame .orb-slideshow img {
+	object-position: top;
 }
